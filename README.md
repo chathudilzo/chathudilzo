@@ -54,4 +54,5 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?chathudilzo
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chathudilzo&theme=dark&background=000000)](https://git.io/streak-stats)
+
