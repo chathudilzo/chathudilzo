@@ -55,6 +55,8 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chathudilzo&theme=dark&show_icons=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chathudilzo&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chathudilzo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
